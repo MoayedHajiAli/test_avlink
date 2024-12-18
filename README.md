@@ -3,7 +3,11 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2311.18822-b31b1b)](#TODO)
 
 
-[![YouTube](http://i.ytimg.com/vi/ZGsGVE6DIw0/hqdefault.jpg)](https://www.youtube.com/watch?v=ZGsGVE6DIw0)
+Results:
+<div class='center'>
+https://private-user-images.githubusercontent.com/192094751/396872201-9f7395c7-4718-4e9d-9292-39ed57af45cd.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ1MTkyMTksIm5iZiI6MTczNDUxODkxOSwicGF0aCI6Ii8xOTIwOTQ3NTEvMzk2ODcyMjAxLTlmNzM5NWM3LTQ3MTgtNGU5ZC05MjkyLTM5ZWQ1N2FmNDVjZC5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIxOFQxMDQ4MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMmRkM2IyZjk2MzJlYjU1NTAyM2M5MmRlN2YxMmM2YmExYjBmYTkyNjkyOTU5NGYwZDQyNmRiYjBiNDk2MzhhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.IWpluaDg6BwQMVHb86c1Fy_xTgFuz2850_Qa_miJwRs
+</div>
+
 
 
 # AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation
