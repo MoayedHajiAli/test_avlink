@@ -3,7 +3,9 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2311.18822-b31b1b)](#TODO)
 
 
-[Watch the teaser video](https://github.com/MoayedHajiAli/test_avlink/releases/download/v1.0.0/teaser.mp4)
+<div>
+https://github.com/user-attachments/assets/f5114207-c098-4f00-864e-3a4eb24fa08a
+</div>
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1040336513?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="teaser"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
